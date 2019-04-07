@@ -1,0 +1,37 @@
+Enter number of data bits :
+7
+Enter data bits :
+1
+0
+1
+1
+0
+0
+1
+Enter number of bits in divisor :
+3
+Enter Divisor bits :
+1
+0
+1
+Data bits are : 1011001
+divisor bits are : 101
+Dividend (after appending 0's) are : 101100100
+
+CRC code :
+101100111
+Enter CRC code of 9 bits :
+1
+0
+1
+1
+0
+0
+1
+0
+1
+crc bits are : 101100101
+Error
+THANK YOU.... :)
+Press any key to continue...
+
